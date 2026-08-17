@@ -1,6 +1,6 @@
 package Kachou.Kacharelle3.Controler;
 
-import Kachou.Kacharelle3.EmployeService;
+import Kachou.Kacharelle3.Service.EmployeService;
 import Kachou.Kacharelle3.Entity.Employe;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

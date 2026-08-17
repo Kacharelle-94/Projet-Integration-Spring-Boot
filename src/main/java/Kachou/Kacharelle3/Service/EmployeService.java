@@ -1,4 +1,4 @@
-package Kachou.Kacharelle3;
+package Kachou.Kacharelle3.Service;
 
 import Kachou.Kacharelle3.Entity.Employe;
 import Kachou.Kacharelle3.Repository.EmployeRpository;
