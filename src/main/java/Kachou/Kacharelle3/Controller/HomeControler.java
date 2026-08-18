@@ -1,4 +1,4 @@
-package Kachou.Kacharelle3.Controller;
+package Kachou.Kacharelle3.Controler;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
