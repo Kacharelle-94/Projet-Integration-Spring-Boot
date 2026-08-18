@@ -1,4 +1,4 @@
-package Kachou.Kacharelle3.Controler;
+package Kachou.Kacharelle3.Controller;
 
 import Kachou.Kacharelle3.Service.EmployeService;
 import Kachou.Kacharelle3.Entity.Employe;
